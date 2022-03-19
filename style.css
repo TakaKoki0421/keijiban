@@ -1,0 +1,121 @@
+.logo img{
+    width:350px;
+}
+header {
+    width: 100%;
+}
+header ul {
+    width:100%;
+    height:60px;
+    background-color: black;
+    line-height:60px;
+}
+header ul li{
+    list-style-type: none;
+    float:left;
+    color: rgb(247, 244, 241);
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+body{font-family: "Hiragino Kaku Gothic ProN","メイリオ", sans-serif;
+}
+
+main {
+    float:left;
+    width:70%;
+}
+
+h1{
+    border-left:4px black solid;
+    border-bottom:3px black solid;
+
+}
+
+form{
+    margin: 0 auto;
+    background-color:#fbfbfb;
+    border:3px #ebebeb solid;
+    width:900px;
+    margin-left:10px;
+}
+
+form div{padding:10px;
+
+}
+
+.text, textarea, .dropdown{
+    border:1px solid #dfdfdf;
+    padding:5px;
+    color:#999;
+    background:#fff;
+}
+
+.submit{
+    border:1px solid lightgray;
+    padding: 4px 10px;
+    color:white;
+    background-color:gray;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+}
+
+h2{margin: auto;
+    margin-top:30px;
+    margin-bottom:20px;
+    margin-left:10px;
+    border-left:4px red solid;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:15px;
+    width:500px;
+    font-size:20px;
+
+}
+
+.kiji{
+    margin: 0 auto;
+    background-color:#fbfbfb;
+    border:3px #ebebeb solid;
+    width:900px;
+    margin-left:10px;
+}
+
+.kuran{
+    width:100%;
+    height: 10px;
+    background-color:white;
+}
+
+.right {
+    float:left;
+    width:25%;
+    margin-top:35px;
+    margin-left:15px;
+}
+
+.right ul {
+    list-style-type: none;
+    margin-left: -25px;
+    margin-right: -10px;
+    line-height: 30px;
+}
+h3 {
+    margin-right:30px;
+    border-bottom: 1px dotted black;
+}
+
+.sss {
+    width:100%;
+    height:40px;
+    background-color: white;
+}
+
+footer {
+    clear:left;
+    width:100%;
+   background-color:black;
+    color:white;
+    text-align: center;
+    line-height: 60px;
+}
